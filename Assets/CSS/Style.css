@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* body {
+    padding: 0;
+    margin: 0;
+    background-color: #1acdec;
+} */
+
+.carrusel {
+    height: 100vh;
+}
+
+.icono {
+    width: 2rem;
+} 
+
+.fondo-negro {
+    background-color: black;
+}
+
+.linea-separadora {
+    width: 100%;
+    height: 2px;
+    background-color: #bfc8c9;
+    border: none;
+}
+
+.bg-azul {
+    background-color: #1acdec;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.img-size {
+    width: 120rem;
+}
